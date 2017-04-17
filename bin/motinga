@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'motinga'
+puts Motinga.hi(ARGV[0])
