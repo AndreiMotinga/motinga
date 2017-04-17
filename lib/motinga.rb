@@ -3,3 +3,5 @@ class Motinga
     puts "Hello world!"
   end
 end
+
+require 'motinga/translator'

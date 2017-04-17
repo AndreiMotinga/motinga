@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Learning writing specs"
   s.authors     = ["Andrei Motinga"]
   s.email       = 'andrew.motinga@gmail.com'
-  s.files       = ["lib/motinga.rb"]
+  s.files       = ["lib/motinga.rb", "lib/motinga/translator.rb"]
   s.homepage    =
     'http://rubygems.org/gems/motinga'
   s.license       = 'MIT'
